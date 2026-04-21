@@ -1,0 +1,10 @@
+D:\software_work\Winform\TestDemo\AgreementTest\AgreementTest\bin\Debug\AgreementTest.exe.config
+D:\software_work\Winform\TestDemo\AgreementTest\AgreementTest\bin\Debug\AgreementTest.exe
+D:\software_work\Winform\TestDemo\AgreementTest\AgreementTest\bin\Debug\AgreementTest.pdb
+D:\software_work\Winform\TestDemo\AgreementTest\AgreementTest\obj\Debug\AgreementTest.csproj.AssemblyReference.cache
+D:\software_work\Winform\TestDemo\AgreementTest\AgreementTest\obj\Debug\AgreementTest.Form1.resources
+D:\software_work\Winform\TestDemo\AgreementTest\AgreementTest\obj\Debug\AgreementTest.Properties.Resources.resources
+D:\software_work\Winform\TestDemo\AgreementTest\AgreementTest\obj\Debug\AgreementTest.csproj.GenerateResource.cache
+D:\software_work\Winform\TestDemo\AgreementTest\AgreementTest\obj\Debug\AgreementTest.csproj.CoreCompileInputs.cache
+D:\software_work\Winform\TestDemo\AgreementTest\AgreementTest\obj\Debug\AgreementTest.exe
+D:\software_work\Winform\TestDemo\AgreementTest\AgreementTest\obj\Debug\AgreementTest.pdb
